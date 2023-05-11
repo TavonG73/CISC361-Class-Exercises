@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1B54A6FA2A0D58B700114AA5 /* Question 3.c in Sources */ = {isa = PBXBuildFile; fileRef = 1B54A6F92A0D58B700114AA5 /* Question 3.c */; };
+		1B54A6FF2A0D5E1000114AA5 /* Question 5.c in Sources */ = {isa = PBXBuildFile; fileRef = 1B54A6FE2A0D5E1000114AA5 /* Question 5.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		1B54A6EF2A0D584A00114AA5 /* First Exercise */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "First Exercise"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B54A6F92A0D58B700114AA5 /* Question 3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "Question 3.c"; sourceTree = "<group>"; };
+		1B54A6FE2A0D5E1000114AA5 /* Question 5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "Question 5.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				1B54A6F92A0D58B700114AA5 /* Question 3.c */,
+				1B54A6FE2A0D5E1000114AA5 /* Question 5.c */,
 			);
 			path = "First Exercise";
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B54A6FF2A0D5E1000114AA5 /* Question 5.c in Sources */,
 				1B54A6FA2A0D58B700114AA5 /* Question 3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
